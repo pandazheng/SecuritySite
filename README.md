@@ -25,3 +25,23 @@ https://blog.trustlook.com/
 
 http://www.hackingarticles.in 
 
+https://www.offensive-security.com/blog/
+
+http://thehackernews.com/ 
+
+https://community.rapid7.com/community/metasploit/blog/ 
+
+https://blog.malwarebytes.com/ 
+
+https://www.nowsecure.com/blog/ 
+
+https://security.berkeley.edu/resources/phishing/phishing-examples-archive 
+
+http://malware-traffic-analysis.net/ 
+
+http://www.vantagepoint.sg/blog 
+
+https://www.endgame.com/blog  
+
+https://www.incapsula.com/blog/ 
+
