@@ -50,4 +50,6 @@ https://www.incapsula.com/blog/
 https://n0where.net/best-ida-plugins/  
 
 
+#IoT
+https://arstechnica.com/security/  
 
