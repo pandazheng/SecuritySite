@@ -53,3 +53,5 @@ https://n0where.net/best-ida-plugins/
 #IoT
 https://arstechnica.com/security/  
 
+#hack 
+https://github.com/Hack-with-Github/Awesome-Hacking  
