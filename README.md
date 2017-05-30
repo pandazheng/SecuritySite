@@ -46,15 +46,12 @@ https://www.endgame.com/blog
 https://www.incapsula.com/blog/ 
 
 
-#IDA插件  
-
+# IDA插件  
 https://n0where.net/best-ida-plugins/  
 
 
-#IoT  
-
+# IoT  
 https://arstechnica.com/security/  
 
-#hack   
-
+# hack   
 https://github.com/Hack-with-Github/Awesome-Hacking  
