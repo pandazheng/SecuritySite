@@ -55,3 +55,7 @@ https://arstechnica.com/security/
 
 # hack   
 https://github.com/Hack-with-Github/Awesome-Hacking  
+
+# PPT
+https://www.slideshare.net/  
+
