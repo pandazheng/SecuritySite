@@ -60,5 +60,8 @@ https://github.com/Hack-with-Github/Awesome-Hacking
 https://www.slideshare.net/  
 
 # Chart
-https://github.com/SecWiki/sec-chart  
+https://github.com/SecWiki/sec-chart
+
+# Penetration Testing
+https://github.com/enaqx/awesome-pentest
 
