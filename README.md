@@ -45,6 +45,8 @@ https://www.endgame.com/blog
 
 https://www.incapsula.com/blog/ 
 
+https://crackinglandia.wordpress.com
+
 
 # IDA插件  
 https://n0where.net/best-ida-plugins/  
