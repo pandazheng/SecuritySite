@@ -67,3 +67,12 @@ https://github.com/SecWiki/sec-chart
 # Penetration Testing
 https://github.com/enaqx/awesome-pentest
 
+# Wooyun
+https://superkieran.github.io/WooyunDrops/#!/  
+
+# Kali
+https://github.com/tiancode/learn-hacking  
+http://www.hackfun.org/kali-tools/kali-tools-zh.html  
+
+
+
