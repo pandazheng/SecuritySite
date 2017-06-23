@@ -74,5 +74,7 @@ https://superkieran.github.io/WooyunDrops/#!/
 https://github.com/tiancode/learn-hacking  
 http://www.hackfun.org/kali-tools/kali-tools-zh.html  
 
+# dictionary
+https://pan.baidu.com/s/1clxaCA  
 
 
