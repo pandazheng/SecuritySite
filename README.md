@@ -77,4 +77,10 @@ http://www.hackfun.org/kali-tools/kali-tools-zh.html
 # dictionary
 https://pan.baidu.com/s/1clxaCA  
 
+# OWASP
+https://www.owasp.org/index.php/Main_Page  
+https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project  
+
+
+
 
