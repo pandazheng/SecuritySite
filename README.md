@@ -81,6 +81,9 @@ https://pan.baidu.com/s/1clxaCA
 https://www.owasp.org/index.php/Main_Page  
 https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project  
 
+# Python for penetration testers
+https://vulnerablelife.wordpress.com/2017/05/13/python-for-penetration-testers/  
+
 
 
 
