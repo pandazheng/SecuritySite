@@ -49,6 +49,10 @@ https://crackinglandia.wordpress.com
 
 https://www.pentestpartners.com/
 
+https://www.binarydefense.com/  
+
+https://blogs.technet.microsoft.com/
+
 
 # IDA插件  
 https://n0where.net/best-ida-plugins/  
@@ -85,6 +89,10 @@ https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project
 
 # Python for penetration testers
 https://vulnerablelife.wordpress.com/2017/05/13/python-for-penetration-testers/  
+
+# Honeypot
+https://github.com/SecWiki/ipot  
+https://ipot.sec-wiki.com/  
 
 
 
