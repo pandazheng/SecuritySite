@@ -51,7 +51,10 @@ https://www.pentestpartners.com/
 
 https://www.binarydefense.com/  
 
-https://blogs.technet.microsoft.com/
+https://blogs.technet.microsoft.com/  
+
+https://astr0baby.wordpress.com/2017/07/  
+
 
 
 # IDA插件  
