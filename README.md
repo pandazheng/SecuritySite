@@ -55,6 +55,8 @@ https://blogs.technet.microsoft.com/
 
 https://astr0baby.wordpress.com/2017/07/  
 
+http://blog.sec-consult.com/  
+
 
 
 # IDA插件  
