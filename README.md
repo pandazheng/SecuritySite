@@ -57,6 +57,8 @@ https://astr0baby.wordpress.com/2017/07/
 
 http://blog.sec-consult.com/  
 
+https://www.besttechie.com/  
+
 
 
 # IDA插件  
