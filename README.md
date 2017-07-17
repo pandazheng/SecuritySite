@@ -59,6 +59,10 @@ http://blog.sec-consult.com/
 
 https://www.besttechie.com/  
 
+https://vallejo.cc  
+
+http://nullcon.net/website/  
+
 
 
 # IDA插件  
