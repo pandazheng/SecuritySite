@@ -72,6 +72,8 @@ https://n0where.net/best-ida-plugins/
 # IoT  
 https://arstechnica.com/security/  
 http://www.devttys0.com  
+https://github.com/nebgnahz/awesome-iot-hacks  
+
 
 
 # hack   
