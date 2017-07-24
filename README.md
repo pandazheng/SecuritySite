@@ -73,6 +73,7 @@ https://n0where.net/best-ida-plugins/
 https://arstechnica.com/security/  
 http://www.devttys0.com  
 https://github.com/nebgnahz/awesome-iot-hacks  
+https://www.exploitee.rs/index.php/Main_Page  
 
 
 
