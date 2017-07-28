@@ -111,7 +111,9 @@ https://github.com/SecWiki/ipot
 https://ipot.sec-wiki.com/  
 
 # WiFi Cracker
-https://github.com/brannondorsey/wifi-cracking  
+https://github.com/brannondorsey/wifi-cracking    
+http://www.freebuf.com/articles/wireless/137641.html  
+
 
 
 
