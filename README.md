@@ -120,6 +120,9 @@ http://www.hackrf.net/
 # Vuln Linux渗透测试
 https://www.vulnhub.com/  
 
+# Metasploit 
+http://uknowsec.cn/posts/skill/Meatsploit-Framework-%E5%88%A9%E7%94%A8%E6%80%BB%E7%BB%93.html  
+
 
 
 
