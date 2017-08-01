@@ -63,6 +63,7 @@ https://vallejo.cc
 
 http://nullcon.net/website/  
 
+https://r3mrum.wordpress.com/  
 
 
 # IDA插件  
