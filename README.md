@@ -130,5 +130,8 @@ http://uknowsec.cn/posts/skill/%E6%B5%85%E8%B0%88ddos%E7%9A%84%E6%B5%8B%E8%AF%95
 # Sandbox
 https://www.hybrid-analysis.com/  
 
+# Shodan
+http://www.freebuf.com/sectool/121339.html  
+
 
 
