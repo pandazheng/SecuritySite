@@ -133,5 +133,11 @@ https://www.hybrid-analysis.com/
 # Shodan
 http://www.freebuf.com/sectool/121339.html  
 
+# 傻蛋联网搜索
+https://www.oshadan.com  
+
+# ZoomEye
+https://www.zoomeye.org/  
+
 
 
