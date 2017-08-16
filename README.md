@@ -142,5 +142,8 @@ https://www.zoomeye.org/
 # XMind 思维导图工具
 http://www.xmindchina.net/  
 
+# Exploit
+https://www.peerlyst.com/posts/the-best-resources-for-learning-exploit-development?trk=search_page_search_result  
+
 
 
