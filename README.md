@@ -150,4 +150,5 @@ https://github.com/pwndbg/pwndbg
 
 # OFFICE MALWARE
 https://r3mrum.wordpress.com/2017/06/29/analyzing-malicious-password-protected-office-documents/  
+https://dfir.it/blog/2015/06/17/analysts-handbook-analyzing-weaponized-documents/  
 
