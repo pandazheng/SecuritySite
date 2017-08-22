@@ -148,3 +148,6 @@ https://www.peerlyst.com/posts/the-best-resources-for-learning-exploit-developme
 # PWNDBG
 https://github.com/pwndbg/pwndbg  
 
+# OFFICE MALWARE
+https://r3mrum.wordpress.com/2017/06/29/analyzing-malicious-password-protected-office-documents/  
+
