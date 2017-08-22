@@ -92,6 +92,8 @@ https://github.com/enaqx/awesome-pentest
 
 # Wooyun
 https://superkieran.github.io/WooyunDrops/#!/  
+http://cb.drops.wiki/  
+
 
 # Kali
 https://github.com/tiancode/learn-hacking  
@@ -151,4 +153,11 @@ https://github.com/pwndbg/pwndbg
 # OFFICE MALWARE
 https://r3mrum.wordpress.com/2017/06/29/analyzing-malicious-password-protected-office-documents/  
 https://dfir.it/blog/2015/06/17/analysts-handbook-analyzing-weaponized-documents/  
+
+# Software-Security-Learning
+https://github.com/CHYbeta/Software-Security-Learning  
+
+# Web-Security-Learning
+https://github.com/CHYbeta/Web-Security-Learning  
+
 
