@@ -162,4 +162,7 @@ https://github.com/CHYbeta/Software-Security-Learning
 # Web-Security-Learning
 https://github.com/CHYbeta/Web-Security-Learning  
 
+# Python爬虫
+https://segmentfault.com/p/1210000009117809/read  
+
 
