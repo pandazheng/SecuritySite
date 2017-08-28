@@ -116,6 +116,7 @@ https://ipot.sec-wiki.com/
 # WiFi Cracker
 https://github.com/brannondorsey/wifi-cracking    
 http://www.freebuf.com/articles/wireless/137641.html  
+https://klionsec.github.io/2015/04/14/aircrack-hascat/  
 
 # Radio
 http://www.hackrf.net/  
