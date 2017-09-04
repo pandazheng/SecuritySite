@@ -367,5 +367,9 @@ https://crackstation.net/
 
 http://www.objectif-securite.ch/  
 
+# Radare2
+https://www.megabeets.net/a-journey-into-radare-2-part-1/  
+https://www.megabeets.net/a-journey-into-radare-2-part-2/  
+
 
 
