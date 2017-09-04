@@ -371,5 +371,14 @@ http://www.objectif-securite.ch/
 https://www.megabeets.net/a-journey-into-radare-2-part-1/  
 https://www.megabeets.net/a-journey-into-radare-2-part-2/  
 
+# REMnux
+REMnux: A Linux Toolkit for Reverse-Engineering and Analyzing Malware
+https://remnux.org/  
+
+# Gnuradio
+http://eu2-dist.gnuradio.org/  
+
+
+
 
 
