@@ -384,6 +384,9 @@ https://github.com/mwsrc
 # Cheat Sheet for Analyzing Malicious Software
 https://zeltser.com/malware-analysis-cheat-sheet/  
 
+# 知道工具之硬件路由相关
+https://mp.weixin.qq.com/s/QdiI66ZDsHj7MaMB6c88Ug  
+
 
 
 
