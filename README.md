@@ -387,6 +387,9 @@ https://zeltser.com/malware-analysis-cheat-sheet/
 # 知道工具之硬件路由相关
 https://mp.weixin.qq.com/s/QdiI66ZDsHj7MaMB6c88Ug  
 
+# Analyzing Malicious Documents Cheat Sheet
+https://zeltser.com/analyzing-malicious-documents/  
+
 
 
 
