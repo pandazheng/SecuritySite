@@ -233,6 +233,8 @@ https://vulnerablelife.wordpress.com/2017/05/13/python-for-penetration-testers/
 # Honeypot
 https://github.com/SecWiki/ipot  
 https://ipot.sec-wiki.com/  
+https://sosly.me/index.php/2017/09/05/jymiguan2/  
+
 
 # WiFi Cracker
 https://github.com/brannondorsey/wifi-cracking    
