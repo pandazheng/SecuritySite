@@ -210,6 +210,8 @@ https://github.com/SecWiki/sec-chart
 
 # Penetration Testing
 https://github.com/enaqx/awesome-pentest
+https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/  
+
 
 # Wooyun
 https://superkieran.github.io/WooyunDrops/#!/  
