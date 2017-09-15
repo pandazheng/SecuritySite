@@ -393,6 +393,8 @@ https://mp.weixin.qq.com/s/QdiI66ZDsHj7MaMB6c88Ug
 
 # Analyzing Malicious Documents Cheat Sheet
 https://zeltser.com/analyzing-malicious-documents/  
+https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator  
+
 
 # Iot Exploit Tools
 https://www.attify-store.com/collections/frontpage/products/iot-security-exploitation-training-learning-kit  
