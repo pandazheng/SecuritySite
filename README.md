@@ -400,6 +400,5 @@ https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macr
 # Iot Exploit Tools
 https://www.attify-store.com/collections/frontpage/products/iot-security-exploitation-training-learning-kit  
 
-
-
-
+# Objective-C Reveser
+https://blog.fortinet.com/2017/09/19/rewriting-idapython-script-objc2-xrefs-helper-py-for-hopper
