@@ -409,4 +409,7 @@ https://blog.fortinet.com/2017/09/19/rewriting-idapython-script-objc2-xrefs-help
 # Metasploitbale2  
 https://sourceforge.net/projects/metasploitable/files/Metasploitable2/  
 
+# Shodan
+http://www.jianshu.com/p/ee22367303d5  
+
 
