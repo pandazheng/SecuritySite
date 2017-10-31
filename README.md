@@ -412,4 +412,7 @@ https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
 # Shodan
 http://www.jianshu.com/p/ee22367303d5  
 
+# 蓝牙攻击基础篇  
+http://www.whitecell-club.org/?p=1524  
+
 
