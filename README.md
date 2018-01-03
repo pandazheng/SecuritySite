@@ -200,6 +200,8 @@ https://arstechnica.com/security/
 http://www.devttys0.com  
 https://github.com/nebgnahz/awesome-iot-hacks  
 https://www.exploitee.rs/index.php/Main_Page  
+https://iot.sec-wiki.com/  
+
 
 
 
@@ -259,6 +261,9 @@ http://uknowsec.cn/posts/skill/Meatsploit-Framework-%E5%88%A9%E7%94%A8%E6%80%BB%
 # DDOS
 http://uknowsec.cn/posts/skill/%E6%B5%85%E8%B0%88ddos%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%B9%E6%B3%95.html  
 http://resources.infosecinstitute.com/dos-attacks-free-dos-attacking-tools/  
+http://www.hackingarticles.in/dos-attack-packet-crafting-using-colasoft/  
+http://www.hackingarticles.in/dos-attack-penetration-testing-part-2/  
+
 
 # Sandbox
 https://www.hybrid-analysis.com/  
