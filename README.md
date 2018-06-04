@@ -11,7 +11,9 @@ https://www.fireeye.com/blog.html
 
 http://www.symantec.com/connect/blogs
 
-https://blog.kaspersky.com
+https://blog.kaspersky.com  
+
+https://labs.bitdefender.com/  
 
 http://cybersecurityminute.com/security-blogs/source/Trend+Micro+Blog/
 
@@ -163,6 +165,8 @@ https://room362.com/
 
 https://www.corelan.be/  
 
+https://www.us-cert.gov/  
+
 https://holidayhackchallenge.com/    
 
 https://www.anthonys.io/  
@@ -170,6 +174,24 @@ https://www.anthonys.io/
 https://www.arbornetworks.com/blog/asert/  
 
 https://0x00sec.org/  
+
+http://blog.malwaremustdie.org  
+
+https://www.anquanke.com/  
+
+https://www.malware-traffic-analysis.net/  
+
+https://sec-wiki.com/  
+
+https://pastebin.com/  
+
+https://landave.io/  
+
+https://threatpost.com/  
+
+
+
+
 
 
 # 工具官网
@@ -188,6 +210,8 @@ https://blog.cobaltstrike.com/
 https://www.metasploit.com/  
 
 https://www.netsparker.com/  
+
+https://www.bleepingcomputer.com/  
 
 
 
