@@ -1,5 +1,5 @@
 # SecuritySite
-收集了一些安全公司的博客
+收集了一些安全公司的博客，用于安全情报
 
 http://contagiodump.blogspot.com 
 
